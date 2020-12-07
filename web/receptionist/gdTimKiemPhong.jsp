@@ -59,14 +59,15 @@
 
                         
                         <%  int counter = 0;
-                            for (BookedRoom room : roomList){
-                                pageContext.setAttribute("loopindex", counter);
-                                counter += 1;
-                                System.out.println(room.getRoom());
-                                pageContext.setAttribute("current", room.getRoom());
-                                
-                                int staffNumber = room.getBookedRoomServing().size();
-                                pageContext.setAttribute("staffNumber", staffNumber);
+                            if (roomList != null){
+                                for (BookedRoom room : roomList){
+                                    pageContext.setAttribute("loopindex", counter);
+                                    counter += 1;
+                                    System.out.println(room.getRoom());
+                                    pageContext.setAttribute("current", room.getRoom());
+
+                                    int staffNumber = room.getBookedRoomServing().size();
+                                    pageContext.setAttribute("staffNumber", staffNumber);
                         %>
                                 <tr>
                                     <td><c:out value="${loopindex + 1}" /></td>
@@ -84,7 +85,7 @@
                         
 
                                 </tr>
-                            <%}%>
+                            <%}}%>
                     
 
                     </tbody>

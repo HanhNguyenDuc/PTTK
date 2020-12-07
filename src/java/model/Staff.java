@@ -11,17 +11,21 @@ package model;
  */
 public class Staff extends User{
     
-    private String position;
+    protected String position;
     
     public Staff(String username, String password, String address, String phone, String name, String email, int id, String position) {
         super(username, password, address, phone, name, email, id);
         this.position = position;
     }
 
-    public Staff() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    public Staff(Staff s) {
+        super(s.getUsername(), s.getPassword(), s.getAddress(), s.getPhone(), s.getName(), s.getEmail(), s.getId());
     }
 
+    public Staff() {
+    }
+    
+    
     public String getPosition() {
         return position;
     }

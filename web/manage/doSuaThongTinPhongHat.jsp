@@ -30,7 +30,7 @@
             <body>
                 <div class="container">
                     <div class="row d-flex justify-content-center">
-                        <h2>Có lỗi xảy ra, vui lòng thử lại sau</h2>
+                        <h2>Cập nhật thông tin phòng hát thành công</h2>
                     </div>
                     <div class="row d-flex justify-content-center">
                         <a class="btn btn-primary" href="gdTimKiemPhongHat.jsp">Ok</a>
@@ -49,7 +49,7 @@
             <body>
                 <div class="container">
                     <div class="row d-flex justify-content-center">
-                        <h2>Cập nhật thông tin phòng hát thành công</h2>
+                        <h2>có lỗi xảy ra, vui lòng thực hiện lại sau</h2>
                     </div>
                     <div class="row d-flex justify-content-center">
                         <a class="btn btn-primary" href="gdTimKiemPhongHat.jsp">Ok</a>

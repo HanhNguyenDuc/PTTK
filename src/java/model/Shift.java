@@ -14,15 +14,20 @@ import java.sql.Date;
  */
 public class Shift implements Serializable{
     private int id;
+    private int dayOfWeek, timeTable;
+    private Date week;
 
-    public Shift(int id, Date timeTable, Date week) {
-        this.id = id;
-        this.timeTable = timeTable;
-        this.week = week;
+    public int getDayOfWeek() {
+        return dayOfWeek;
     }
 
+    public void setDayOfWeek(int dayOfWeek) {
+        this.dayOfWeek = dayOfWeek;
+    }
+
+    
     public Shift() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        
     }
 
     public int getId() {
@@ -33,11 +38,11 @@ public class Shift implements Serializable{
         this.id = id;
     }
 
-    public Date getTimeTable() {
+    public int getTimeTable() {
         return timeTable;
     }
 
-    public void setTimeTable(Date timeTable) {
+    public void setTimeTable(int timeTable) {
         this.timeTable = timeTable;
     }
 
@@ -48,6 +53,4 @@ public class Shift implements Serializable{
     public void setWeek(Date week) {
         this.week = week;
     }
-    private Date timeTable;
-    private Date week;
 }

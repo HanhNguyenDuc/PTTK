@@ -76,7 +76,6 @@ public class BookedRoomDAO extends DAO{
                     if (rsServerShift.next()){
                         ServerShift ss = new ServerShift();
                         ss.setId(rsServerShift.getInt("id"));
-                        ss.setServingTime(rsServerShift.getDate("servingTime"));
                         // get Shift
                         ps = conn.prepareStatement(sql_shift);
                         ps.setInt(1, rsServerShift.getInt("tblshiftid"));
@@ -84,19 +83,19 @@ public class BookedRoomDAO extends DAO{
                         if (rsShift.next()){
                             Shift s = new Shift();
                             s.setId(rsShift.getInt("id"));
-                            s.setTimeTable(rsShift.getDate("timeTable"));
+                            s.setTimeTable(rsShift.getInt("timeTable"));
                             s.setWeek(rsShift.getDate("week"));
                             ss.setShift(s);
                         }
                         // get Staff
                         ps = conn.prepareStatement(sql_staff);
-                        ps.setInt(1, rsServerShift.getInt("tblstaffid"));
+                        ps.setInt(1, rsServerShift.getInt("tblserverid"));
                         ResultSet rsStaff = ps.executeQuery();
                         if (rsStaff.next()){
                             Staff s = new Staff();
                             s.setId(rsStaff.getInt("user.id"));
                             s.setName(rsStaff.getString("user.name"));
-                            ss.setServer((Server)s);
+                            ss.setServer(new Server(s));
                         }
                         brs.setServerShift(ss);
                         

@@ -17,4 +17,15 @@ public class Server extends Staff implements Serializable{
         super(username, password, address, phone, name, email, id, "Server");
     }
     
+
+    public Server(Staff s) {
+        super(s);
+        this.position = "server";
+    }
+
+    public Server() {
+    }
+    
+    
+    
 }

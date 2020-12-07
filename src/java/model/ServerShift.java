@@ -16,7 +16,6 @@ public class ServerShift implements Serializable{
     private Shift shift;
     private Server server;
     private int id;
-    private Date servingTime;
 
     public int getId() {
         return id;
@@ -26,13 +25,6 @@ public class ServerShift implements Serializable{
         this.id = id;
     }
 
-    public Date getServingTime() {
-        return servingTime;
-    }
-
-    public void setServingTime(Date servingTime) {
-        this.servingTime = servingTime;
-    }
 
     public ServerShift(Shift shift, Server server) {
         this.shift = shift;
