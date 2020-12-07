@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Receptionist.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/user/gdDangNhap.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdChinhQuanLy.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdQLPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Store.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/RoomDAO.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdSuaThongTinPhong.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/doSuaThongTinPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/User.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Staff.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Room.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Shift.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/doTimKiemPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Server.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/statics/css/gdQLPhongHat.css</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdTimKiemPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/BookedRoom.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Booking.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/user/doDangNhap.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Manager.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/doThemPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/index.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/statics/css/gdTimKiemPhongHat.css</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Customer.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/DAO.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/statics/css/gdChinhQuanLy.css</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/ServerShift.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdThemPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/BookedRoomServing.java</file>
+        </group>
+    </open-files>
+</project-private>
