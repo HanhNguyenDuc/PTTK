@@ -5,15 +5,19 @@
         <group>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Receptionist.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/user/gdDangNhap.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/receptionist/gdPhanCongNhanVien.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdChinhQuanLy.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdQLPhongHat.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Store.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/WEB-INF/web.xml</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/RoomDAO.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdSuaThongTinPhong.jsp</file>
-            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/doSuaThongTinPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/ServingHourStatDAO.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/User.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdThongKe.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Staff.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/receptionist/gdTimKiemPhong.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/BookedRoomServingDAO.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Room.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Shift.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/doTimKiemPhongHat.jsp</file>
@@ -25,15 +29,22 @@
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Booking.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/user/doDangNhap.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Manager.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/receptionist/gdChinhLeTan.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/doThemPhongHat.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/index.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/statics/css/gdTimKiemPhongHat.css</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/Customer.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/receptionist/doPhanCongNhanVien.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/DAO.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/ServingHourStat.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/statics/css/gdChinhQuanLy.css</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/receptionist/doTimKiemPhong.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/ServerShift.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/ServerShiftDAO.java</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/gdThemPhongHat.jsp</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/web/manage/doThongKe.jsp</file>
             <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/model/BookedRoomServing.java</file>
+            <file>file:/C:/Users/nguye/OneDrive/Documents/NetBeansProjects/QuanLyKaraoke/src/java/dao/BookedRoomDAO.java</file>
         </group>
     </open-files>
 </project-private>

@@ -12,7 +12,9 @@ import java.io.Serializable;
  * @author nguye
  */
 public class User implements Serializable{
-    private String username, password, address, phone, name, email, role;
+    protected String username, password, address, phone, name, email, role;
+    
+    protected int id;
 
     public String getRole() {
         return role;
@@ -21,7 +23,6 @@ public class User implements Serializable{
     public void setRole(String role) {
         this.role = role;
     }
-    private int id;
     
     
     public User(){
